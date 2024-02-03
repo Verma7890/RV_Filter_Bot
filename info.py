@@ -25,8 +25,8 @@ PICS = (environ.get('PICS', 'https://telegra.ph/file/65fe86fc02a73f6fcf0ce.jpg h
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/85d361ab4cb6511006022.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/86b7b7e2aa7e38f328902.jpg")
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/b29829b61e135a28e4f37.jpg'))
-CODE = (environ.get('CODE', 'https://graph.org/file/b24e80eeee97b4b1b238f.jpg'))
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://te.legra.ph/file/40b16c7d82b7395d9eb9a.jpg'))
+CODE = (environ.get('CODE', 'https://te.legra.ph/file/40b16c7d82b7395d9eb9a.jpg'))
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'moneykamalo.com'))
