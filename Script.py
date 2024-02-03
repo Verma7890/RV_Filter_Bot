@@ -296,7 +296,7 @@ BOT WORKING PROPERLY"""
 ● <code>360₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
 💵 ᴜᴘɪ ɪᴅ - <code>djrajbharsaheb@kotak</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/b24e80eeee97b4b1b238f.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://te.legra.ph/file/40b16c7d82b7395d9eb9a.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -313,7 +313,7 @@ BOT WORKING PROPERLY"""
 ● <code>360₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
 💵 ᴜᴘɪ ɪᴅ - <code>djrajbharsaheb@kotak</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/b24e80eeee97b4b1b238f.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://te.legra.ph/file/40b16c7d82b7395d9eb9a.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -421,7 +421,7 @@ BOT WORKING PROPERLY"""
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/b24e80eeee97b4b1b238f.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://te.legra.ph/file/40b16c7d82b7395d9eb9a.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -436,7 +436,7 @@ BOT WORKING PROPERLY"""
 ● <code>360₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
 💵 ᴜᴘɪ ɪᴅ - <code>djrajbharsaheb@kotak</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/b24e80eeee97b4b1b238f.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://te.legra.ph/file/40b16c7d82b7395d9eb9a.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
