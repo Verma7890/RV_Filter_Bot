@@ -29,9 +29,9 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://te.legra.ph/file/40b16c7d82
 CODE = (environ.get('CODE', 'https://te.legra.ph/file/40b16c7d82b7395d9eb9a.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'moneykamalo.com'))
-STREAM_API = (environ.get('STREAM_API', '8a04025f212aa7c29f79bb1c2ac28300e149a7e0'))
-STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Searchmoviesname/58779'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'sharelinks.in'))
+STREAM_API = (environ.get('STREAM_API', '8709f8b09c3f169265a6935c4587498c745125d8'))
+STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Movies_island8/235'))
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5838674798 5570163408').split()]
@@ -65,7 +65,7 @@ MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'searchmoviesname')
 CHNL_LNK = environ.get('CHNL_LNK', 'movies_island8')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Searchmoviesname/58779')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Movies_island8/235')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : ʀᴀᴊʙʜᴀʀ ꜱᴀʜᴇʙ')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001930913574'))
